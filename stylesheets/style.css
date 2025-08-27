@@ -1,0 +1,25 @@
+/* TODO 
+Bygg vidare på produktpresentationssidan:
+
+Använd minst 3 olika färger
+
+Använd minst 1 klass och 1 ID
+
+Ändra fontstorlek på rubrik och brödtext
+
+Testa att använda en relativ enhet (%, rem, em, vh eller vw)
+
+Extra: Testa en grupp-selektor, t.ex.:
+
+h1, h2, p {
+  font-family: Arial;
+}
+
+Använd en grupp-selektor för att sätta samma font-family på rubriker och text
+*/
+h1{
+    color: greenyellow;
+    background-color: darkcyan;
+    text-align: center;
+    font-size: 70px;
+}
