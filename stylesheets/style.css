@@ -34,10 +34,22 @@ h1{
 h2{
   margin-top: 1em; /* mellanrum ovanför rubrik*/
   color: #009220;
+  font-size: 50px;
+
+}
+
+p{
+  font-size: 25px;
 }
 
 nav a{
   color: rgb(4, 0, 255); /* färg på länken */
   text-decoration: none; /* tar bort understrykning */
   margin-right: 10px; /* mellanrum mellan länkar */
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+}
+
+.fruit-card{
+  border: 1px solid #ddd;
 }
